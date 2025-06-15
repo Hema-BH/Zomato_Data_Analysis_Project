@@ -7,8 +7,11 @@ The insights can guide business decisions in the food delivery and dining sector
 
 📌 Objective
 The goal of this project is to:
+
 • Understand restaurant trends and customer ratings
+
 • Identify which factors influence restaurant success
+
 • Provide actionable insights for business decisions in the food delivery and dine-in industry
 
 📊 Dataset
